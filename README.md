@@ -1,6 +1,6 @@
 # Jefferson, a Full-Stack Engineer
 
-Welcome to my GitHub profile! I am Jefferson, a Senior Software Engineer with 6 years of experience. I specialize in developing scalable and efficient applications using modern technologies and practices.
+Welcome to my GitHub profile! I am Jefferson, a Senior Software Engineer with 10 years of experience. I specialize in developing scalable and efficient applications using modern technologies and practices.
 
 ## Skills & Technologies
 I am well-versed in:
@@ -8,22 +8,13 @@ I am well-versed in:
 - React JS
 - Node JS
 - Ruby on Rails
-- Angular JS
 - AWS
 - Docker
-- CI/CD (Github Actions)
+- Heroku
 - PostgreSQL
 - Mongo DB
-- AWS Lambda
-- Vue.js
-- SQL
 - Linux
-- Amazon S3
-- AWS SQS
-- Amazon Simple Notification Service (SNS)
-- GitHub
 - Terraform
-- Apache Pig
 - Elasticsearch
 
 ## Work Experience
@@ -34,9 +25,8 @@ As a Senior Software Engineer at Vizir Software Studio, I have developed several
 
 As a freelancer, I developed an A/B testing application for Shopify to help merchants compare the performance of different versions of their products.
 At a publishing company, I developed a data visualization software for the marketing team to create custom views on their customer data and managed a team of 3 engineers for small projects.
-During my sabbatical year, I took a break from work to travel.
 
 ## Education
-I have a Bachelor's degree in InformaComputer Science and continuous learning is a part of my lifestyle.
+I have a Bachelor's degree in Information System at University of Sao Paulo (the most important in LATAM) and continuous learning is a part of my lifestyle.
 
 Feel free to reach out to me for any projects or collaborations. I look forward to connecting with you!
