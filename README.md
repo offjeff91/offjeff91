@@ -5,13 +5,14 @@ Welcome to my GitHub profile! I am Jefferson, a Senior Software Engineer with 10
 ## Skills & Technologies
 I am well-versed in:
 
-- React JS
-- Node JS
 - Ruby on Rails
+- Object-Oriented Design
+- PostgreSQL
+- Node JS
 - AWS
 - Docker
+- React JS
 - Heroku
-- PostgreSQL
 - Mongo DB
 - Linux
 - Terraform
